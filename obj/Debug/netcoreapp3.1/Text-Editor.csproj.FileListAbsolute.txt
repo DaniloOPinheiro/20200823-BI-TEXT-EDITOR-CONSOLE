@@ -1,0 +1,13 @@
+/home/daniloopinheiro/RiderProjects/20200823-BI-TEXT-EDITOR-CONSOLE/obj/Debug/netcoreapp3.1/Text-Editor.csprojAssemblyReference.cache
+/home/daniloopinheiro/RiderProjects/20200823-BI-TEXT-EDITOR-CONSOLE/obj/Debug/netcoreapp3.1/Text-Editor.AssemblyInfoInputs.cache
+/home/daniloopinheiro/RiderProjects/20200823-BI-TEXT-EDITOR-CONSOLE/obj/Debug/netcoreapp3.1/Text-Editor.AssemblyInfo.cs
+/home/daniloopinheiro/RiderProjects/20200823-BI-TEXT-EDITOR-CONSOLE/obj/Debug/netcoreapp3.1/Text-Editor.csproj.CoreCompileInputs.cache
+/home/daniloopinheiro/RiderProjects/20200823-BI-TEXT-EDITOR-CONSOLE/bin/Debug/netcoreapp3.1/Text-Editor
+/home/daniloopinheiro/RiderProjects/20200823-BI-TEXT-EDITOR-CONSOLE/bin/Debug/netcoreapp3.1/Text-Editor.deps.json
+/home/daniloopinheiro/RiderProjects/20200823-BI-TEXT-EDITOR-CONSOLE/bin/Debug/netcoreapp3.1/Text-Editor.runtimeconfig.json
+/home/daniloopinheiro/RiderProjects/20200823-BI-TEXT-EDITOR-CONSOLE/bin/Debug/netcoreapp3.1/Text-Editor.runtimeconfig.dev.json
+/home/daniloopinheiro/RiderProjects/20200823-BI-TEXT-EDITOR-CONSOLE/bin/Debug/netcoreapp3.1/Text-Editor.dll
+/home/daniloopinheiro/RiderProjects/20200823-BI-TEXT-EDITOR-CONSOLE/bin/Debug/netcoreapp3.1/Text-Editor.pdb
+/home/daniloopinheiro/RiderProjects/20200823-BI-TEXT-EDITOR-CONSOLE/obj/Debug/netcoreapp3.1/Text-Editor.dll
+/home/daniloopinheiro/RiderProjects/20200823-BI-TEXT-EDITOR-CONSOLE/obj/Debug/netcoreapp3.1/Text-Editor.pdb
+/home/daniloopinheiro/RiderProjects/20200823-BI-TEXT-EDITOR-CONSOLE/obj/Debug/netcoreapp3.1/Text-Editor.genruntimeconfig.cache
